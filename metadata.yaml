@@ -1,0 +1,32 @@
+_repo: Novena-nga-Pagdaydayao-Quen-Aputayo---Jesus-Nazareno_15548
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Paredes y Babila, Quintin
+    aliases:
+    - Babila, Quintin Paredes y
+    - Quintin, of Abra
+    - Paredes, Quintin
+    birthdate: 1884
+    deathdate: 1973
+    gutenberg_agent_id: '6117'
+    url: http://www.gutenberg.org/2009/agents/6117
+    wikipedia: http://en.wikipedia.org/wiki/Quint%C3%ADn_Paredes
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2005-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15548'
+language: ilo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Novenas'
+- !lcsh 'Catholic Church -- Prayers and devotions -- Iloko'
+title: Novena nga Pagdaydayao Quen Aputayo á Jesus Nazareno
+url: http://www.gutenberg.org/ebooks/15548
